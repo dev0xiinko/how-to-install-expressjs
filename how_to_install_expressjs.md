@@ -4,6 +4,18 @@ Follow these steps to install Express.js in your Node.js project:
 
 ## 1. Initialize a Node.js project
 
+Check if you arleady install Nodejs
+``` bash
+node -v
+npm -v
+```
+
+Create a new directory
+``` bash
+mkdir your_project_name
+cd your_project_name
+```
+Initialize Node.js project, it will create package.json file
 ``` bash
 npm init -y
 ```
